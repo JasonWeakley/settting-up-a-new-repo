@@ -47,6 +47,6 @@ When I was a budding developer there were a few occassions where I created a rep
 
 8. Now that you have your local and remote repositories setup and connected, its time to take a look at some best practices for developing. This is especially important for developing projects with other human beings. 
 
-   <a href="http://nvie.com/posts/a-successful-git-branching-model/" target="_blank">Click here for "A Successful Git Branching Model" by Vincent Driessen</a>
+   [Click here for "A Successful Git Branching Model" by Vincent Driessen](http://nvie.com/posts/a-successful-git-branching-model/)
 
 
