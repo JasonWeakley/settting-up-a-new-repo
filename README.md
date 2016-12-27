@@ -34,11 +34,17 @@ When I was a budding developer there were a few occassions where I created a rep
    You should be instructed to enter the following:
 
    `git remote add origin YOUR REMOTE REPOSITORY URL`
+   
    >Sets the remote repo for pushing and pulling.
+
    `git remote -v`
+
    >Verifies the new remote URL. Make sure this verified URL matches the one for your GitHub repo.
+
    `git push -u origin master`
+
    >Pushes your saved commit to your repo on GitHub.
+
 8. Now that you have your local and remote repositories setup and connected, its time to talk a look at some best practices for developing. This is especially important for developing projects with other human beings. 
 
    [Click here for "A Successful Git Branching Model" by Vincent Driessen](http://nvie.com/posts/a-successful-git-branching-model/)
